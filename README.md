@@ -1,4 +1,4 @@
-# Pollen Counter 🌻🔬
+# Pollen Counter 🐝
 
 A CNN-based regression model that counts pollen grains in microscope images using transfer learning.
 
