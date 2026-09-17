@@ -1,0 +1,27 @@
+# Data
+*.csv
+*.xlsx
+image_counts.csv
+
+# Training images
+Pollen Training Images/
+
+# Model artifacts
+*.h5
+*.keras
+tfjs_model/
+tfjs_pollen_model/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
